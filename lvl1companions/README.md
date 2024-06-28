@@ -1,0 +1,1 @@
+﻿Simple mod that sets the companions recruit level to 1, allowing them to be respec fully (also allows gestalt + respec to work correctly!)
