@@ -5,7 +5,7 @@
 		<TargetFramework>net481</TargetFramework>
 		<AssemblyName>lvl1companions</AssemblyName>
 		<Description>Level 1 Companions</Description>
-		<Version>1.0.0</Version>
+		<Version>1.0.1</Version>
 		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
 		<LangVersion>latest</LangVersion>
 		<RootNamespace>lvl1companions</RootNamespace>
