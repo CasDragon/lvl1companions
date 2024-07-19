@@ -1,12 +1,12 @@
 ﻿{
   "Id": "lvl1companions",
   "DisplayName": "Level 1 Companions",
-  "Author": "",
-  "Version": "1.0.1",
+  "Author": "CascadingDragon",
+  "Version": "1.1.0",
   "ManagerVersion": "0.27.11",
   "Requirements": [],
   "AssemblyName": "lvl1companions.dll",
   "EntryMethod": "lvl1companions.Main.Load",
-  "HomePage": "",
+  "HomePage": "https://www.nexusmods.com/pathfinderwrathoftherighteous/mods/679",
   "Repository": ""
 }

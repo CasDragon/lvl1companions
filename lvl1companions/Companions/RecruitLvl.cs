@@ -23,7 +23,7 @@ namespace lvl1companions.Companions
                 UnitRefs.Nenio_Companion, UnitRefs.DLC1_Nenio_Companion, UnitRefs.Staunton_Companion, UnitRefs.DLC1_Staunton_Companion, UnitRefs.Ciar_Companion, UnitRefs.DLC1_Ciar_Companion,
                 UnitRefs.Delamere_Companion, UnitRefs.DLC1_Delamere_Companion, UnitRefs.Kestoglyr_Companion, UnitRefs.DLC1_Kestoglyr_Companion, UnitRefs.Galfrey_Companion,
                 UnitRefs.DLC1_Galfrey_Companion, UnitRefs.DLC1_LichGalfrey_Companion, UnitRefs.LichGalfrey_Companion, UnitRefs.DLC5_Rekarth_companion, UnitRefs.Sendri_companion,
-                UnitRefs.DLC5_Sendri_companion, UnitRefs.Penta_companion, UnitRefs.Greybor_Companion, UnitRefs.DLC1_Greybor_Companion};
+                UnitRefs.DLC5_Sendri_companion, UnitRefs.Penta_companion, UnitRefs.Greybor_Companion, UnitRefs.DLC1_Greybor_Companion, UnitRefs.Trever_Companion, UnitRefs.DLC1_Trever_Companion};
             foreach (var i in companionlist)
             {
                 UnitConfigurator.For(i.Reference.Get())
